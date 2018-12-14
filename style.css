@@ -25,8 +25,13 @@ img {
   padding-right: 10px;
   padding-left: 10px;
   margin-left: auto;
+  text-align:center;
   margin-right: auto;
   display:inline-block;
+}
+
+#nav {
+  text-align:center;
 }
   
 figcaption {
